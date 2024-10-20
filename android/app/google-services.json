@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845368905098",
+    "project_id": "midterm-crud-2d29e",
+    "storage_bucket": "midterm-crud-2d29e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845368905098:android:552f7dca8a26f47e790c73",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_lUiZOlmfkkbSDh0455CbF2NljEBLvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
